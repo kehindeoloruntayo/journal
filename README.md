@@ -1,5 +1,5 @@
-# _Bank App_
-### _Bank App allows users to perform basic banking transactions._
+# _Journal_
+### _Journal defines a class Entry for representing textual entries, calculates word, vowel, and consonant counts, generates a teaser from the first sentence, and sets up a jQuery event listener to gather user input, create an Entry object, and display entry information when a button is clicked._
 
 ## Technology used
 * _GIT_
@@ -24,4 +24,4 @@
 * _Report any suspected security problem to the contact above._
 
 ## Notice
-Bank App contains pieces of source code that is under MIT. This notice is included here to comply with the distribution terms.
+Journal contains pieces of source code that is under MIT. This notice is included here to comply with the distribution terms.
